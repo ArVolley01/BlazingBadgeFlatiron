@@ -1,0 +1,20 @@
+{
+    "units": [
+        {
+            "row": "3",
+            "col": "4",
+            "unit": {
+                "name": "Rook",
+                "image": "rook.png"
+            }
+        },
+        {
+            "row": "5",
+            "col": "7",
+            "unit": {
+                "name": "Rook",
+                "image": "rook.png"
+            }
+        }
+    ]
+}
